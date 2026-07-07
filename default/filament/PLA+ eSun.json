@@ -1,0 +1,43 @@
+{
+    "default_filament_colour": [
+        "#387100"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "12"
+    ],
+    "filament_flow_ratio": [
+        "1.1"
+    ],
+    "filament_max_volumetric_speed": [
+        "17"
+    ],
+    "filament_settings_id": [
+        "PLA+ eSun"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA+ eSun",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.08"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "temperature_vitrification": [
+        "50"
+    ],
+    "version": "1.8.0.0"
+}

@@ -1,0 +1,48 @@
+{
+    "bridge_density": "115%",
+    "bridge_speed": "15",
+    "default_acceleration": "8000",
+    "elefant_foot_compensation_layers": "2",
+    "from": "User",
+    "infill_wall_overlap": "25%",
+    "inherits": "0.20mm Standard @Creality K1 (0.4 nozzle)",
+    "initial_layer_acceleration": "1000",
+    "inner_wall_acceleration": "6000",
+    "inner_wall_speed": "200",
+    "internal_bridge_speed": "30",
+    "name": "Sunlu PLA & PETG",
+    "outer_wall_acceleration": "4000",
+    "outer_wall_speed": "150",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "Sunlu PLA & PETG",
+    "raft_first_layer_expansion": "0",
+    "small_area_infill_flow_compensation": "1",
+    "small_area_infill_flow_compensation_model": [
+        "0,0",
+        "\n0.2,0.48",
+        "\n0.4,0.6",
+        "\n0.6,0.66",
+        "\n0.8,0.7",
+        "\n1.5,0.76",
+        "\n2,0.79",
+        "\n3,0.815",
+        "\n5,0.85",
+        "\n10,1"
+    ],
+    "sparse_infill_density": "10%",
+    "sparse_infill_pattern": "cubic",
+    "sparse_infill_speed": "400",
+    "support_on_build_plate_only": "1",
+    "support_style": "organic",
+    "support_threshold_angle": "50",
+    "support_type": "tree(auto)",
+    "top_shell_layers": "4",
+    "top_surface_speed": "150",
+    "travel_acceleration": "14000",
+    "version": "1.8.0.0"
+}

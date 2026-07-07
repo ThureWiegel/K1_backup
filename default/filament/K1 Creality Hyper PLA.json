@@ -1,0 +1,42 @@
+{
+    "default_filament_colour": [
+        "#1986FF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "K1 Creality Hyper PLA"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "inherits": "Creality Generic PLA",
+    "name": "K1 Creality Hyper PLA",
+    "pressure_advance": [
+        "0.054"
+    ],
+    "slow_down_layer_time": [
+        "2"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "1.7.0.0"
+}

@@ -1,0 +1,55 @@
+{
+    "additional_cooling_fan_speed": [
+        "50"
+    ],
+    "default_filament_colour": [
+        "#959595"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_min_speed": [
+        "80"
+    ],
+    "filament_cost": [
+        "12"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "PLA Ender"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA Ender",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "overhang_fan_threshold": [
+        "10%"
+    ],
+    "pressure_advance": [
+        "0.05"
+    ],
+    "slow_down_layer_time": [
+        "5"
+    ],
+    "version": "1.8.0.0"
+}
